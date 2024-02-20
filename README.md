@@ -52,8 +52,7 @@ To boost company sales, I aim to deliver insights that are simple and easy to un
 
 ### 5. Dashboard
 
-- Folder: `dashboard`
-  - Stores files related to the final revenue analysis dashboard, including visualizations and reports.
+ To access the Power BI report file that contains the data model, relationships, visualizations related to the final revenue analysis dashboard - please use this [Google Drive Link](https://drive.google.com/file/d/1xT8o33NH7S1VjbFjbVRrcwBtNP78ytsI/view?usp=sharing).
  
 ![dashboard thumbnail](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/04567e2b-cf9a-4fa8-ab0e-b1a1675a036f)
 
