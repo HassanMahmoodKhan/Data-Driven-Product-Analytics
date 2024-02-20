@@ -39,24 +39,35 @@ VanArsdel, a manufacturer and distributor of sporting goods, operates globally w
 ![model view](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/722b35ea-e56d-4692-934e-8c6db2d53399)
 
 The data model employed is the STAR schema for business intelligence systems. We have five tables:
-- **Product**: This table contains information about the product including a primary key, `ProductID` and foreign key, `ManufacturerID`. It also contains other information such as product price, currency, category, etc. The `Product` table is a dimension table under the star schema.
-- **Sales**: This tables conatins information related to the revenue generated and units sold for the products. It is an instance of the fact table under the star schema.
-- **Manufacturer**: This table conatins information about the various manufacturers including VanArsdel and it's competitors. An instance of dimension table.
+- **Product**: This table contains information about the product including a primary key, `ProductID` and foreign key, `ManufacturerID`. It also contains other information such as product price, currency, category, etc. This table is categorized as a dimension table under the star schema.
+- **Sales**: It conatins information related to the revenue generated and units sold for the products. It is an instance of the fact table under the star schema.
+- **Manufacturer**: It conatins information about the various manufacturers including VanArsdel and it's competitors. An instance of dimension table.
 - **Geography**: Another descriptive/dimension table that holds data related to country, region, state, city, etc., where the product is sold.
-- **Date**: This table represents the temporal details of the sales and contains columns such as date, year, month of sale, etc., 
+- **Date**: This table represents the temporal details of the sales and contains columns such as date, year, month of sale, etc.
+
+
+- **Objective**
+To boost company sales, I aim to deliver insights that are not only simple and easy to understand but also readily digestible. The approach involves presenting information in a clear and straightforward manner, making it accessible to a wide audience and empowering them to make informed decisions swiftly, fostering a more agile and responsive sales strategy for overall growth
 
 ### 5. Dashboard
 
 - Folder: `dashboard`
   - Stores files related to the final revenue analysis dashboard, including visualizations and reports.
  
+  ![dashboard](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/88ef26bd-6211-4980-91c3-24532875b39a)
+
 ### 6. Deployment
 
-## Getting Started
+For deployment purposes, I have published the report using Power BI Desktop to the [Power BI App](https://app.powerbi.com/) which allows stakeholders to view and consume the report.
 
-Provide instructions on how to get the project up and running locally. Include any prerequisites, installation steps, and configuration details.
+## Requirements
+
+This section contains the requirements needed to run the report. Please refer to the list below:
+- Microsoft Power BI Desktop Version: 2.126.927.0 64-bit
+- Microsoft Power BI App Account
+- Microsoft Excel
 
 ## License
 
-Specify the license under which the project is shared.
+This repository employs the Apache 2.0 license. For more information, please refer to the license.
 
