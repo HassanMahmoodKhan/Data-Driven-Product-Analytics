@@ -46,8 +46,9 @@ The data model employed is the STAR schema for business intelligence systems. We
 - **Date**: This table represents the temporal details of the sales and contains columns such as date, year, month of sale, etc.
 
 
-- **Objective**
-To boost company sales, I aim to deliver insights that are not only simple and easy to understand but also readily digestible. The approach involves presenting information in a clear and straightforward manner, making it accessible to a wide audience and empowering them to make informed decisions swiftly, fostering a more agile and responsive sales strategy for overall growth
+#### Objective
+
+To boost company sales, I aim to deliver insights that are simple and easy to understand but also readily digestible. The approach involves presenting information in a clear and straightforward manner, making it accessible to a wide audience and empowering them to make informed decisions swiftly, fostering a more agile and responsive sales strategy for overall growth
 
 ### 5. Dashboard
 
