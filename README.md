@@ -54,7 +54,7 @@ To boost company sales, I aim to deliver insights that are not only simple and e
 - Folder: `dashboard`
   - Stores files related to the final revenue analysis dashboard, including visualizations and reports.
  
-  ![dashboard](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/88ef26bd-6211-4980-91c3-24532875b39a)
+![dashboard thumbnail](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/04567e2b-cf9a-4fa8-ab0e-b1a1675a036f)
 
 ### 6. Deployment
 
