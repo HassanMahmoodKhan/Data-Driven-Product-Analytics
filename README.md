@@ -40,8 +40,8 @@ VanArsdel, a manufacturer and distributor of sporting goods, operates globally w
 
 The data model employed is the STAR schema for business intelligence systems. We have five tables:
 - **Product**: This table contains information about the product including a primary key, `ProductID` and foreign key, `ManufacturerID`. It also contains other information such as product price, currency, category, etc. This table is categorized as a dimension table under the star schema.
-- **Sales**: It conatins information related to the revenue generated and units sold for the products. It is an instance of the fact table under the star schema.
-- **Manufacturer**: It conatins information about the various manufacturers including VanArsdel and it's competitors. An instance of dimension table.
+- **Sales**: It contains information related to the revenue generated and units sold for the products. It is an instance of the fact table under the star schema.
+- **Manufacturer**: It contains information about the various manufacturers including VanArsdel and it's competitors. An instance of dimension table.
 - **Geography**: Another descriptive/dimension table that holds data related to country, region, state, city, etc., where the product is sold.
 - **Date**: This table represents the temporal details of the sales and contains columns such as date, year, month of sale, etc.
 
