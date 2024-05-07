@@ -54,7 +54,8 @@ To boost company sales, I aim to deliver insights that are simple and easy to un
 
  To access the Power BI report file that contains the data model, relationships, visualizations related to the final revenue analysis dashboard - please use this [Google Drive Link](https://drive.google.com/file/d/1xT8o33NH7S1VjbFjbVRrcwBtNP78ytsI/view?usp=sharing).
  
-![dashboard thumbnail](https://github.com/HassanMahmoodKhan/Data-Driven-Product-Analytics/assets/97694796/04567e2b-cf9a-4fa8-ab0e-b1a1675a036f)
+![dashboard thumbnail](https://github.com/HassanMahmoodKhan/Empowering-Business-Insights-Revenue-Analysis-in-Sports-Manufacturing/assets/97694796/b218c73a-f2b8-4e9e-8976-ba6cdd1377b5)
+
 
 ### 6. Deployment
 
